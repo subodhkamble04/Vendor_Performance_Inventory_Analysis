@@ -116,3 +116,5 @@ The following business questions were solved during analysis:
 This project demonstrates how exploratory data analysis can be used to solve real-world business problems related to **vendor performance, procurement efficiency, inventory management, and profitability**.
 
 The insights generated can help businesses make better decisions in terms of vendor selection, pricing strategies, and inventory control.
+
+Note: Due to large file size, the dataset is not included in this repository.
